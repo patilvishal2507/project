@@ -1,0 +1,32 @@
+
+*{
+    padding: 5px;
+    }
+    
+    .dog{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 20px;
+    }
+    
+    a{
+    color: black;
+    }
+    
+    strong{
+    font-style: italic;
+    
+    }
+    .pic-heading{
+    text-decoration: underline ;
+    }
+    
+    ol{
+        padding-left: 25px;
+    
+    }
+    img{
+        width: 1051px;
+        height: 762px;
+    }
